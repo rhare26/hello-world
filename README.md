@@ -1,2 +1,3 @@
 # hello-world
-Test file to learn how to use GitHub
+
+Hi Everyone, my name is Rachel. I'm new to GitHub and trying to learn how to share code between members of my team.
